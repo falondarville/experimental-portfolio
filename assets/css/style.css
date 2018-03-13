@@ -1,0 +1,29 @@
+.main-header {
+	padding-top: 400px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.navigation {
+	margin-top: 50px;
+}
+
+ul {
+	list-style: none;
+	float: right;
+	display: block;
+}
+
+li {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+li a:link, a:visited{
+	text-decoration: none;
+	color: black;
+}
+
+li a:hover {
+	color: #fa4400;
+}
+
+/*	background-color: #f7f7f7;*/
